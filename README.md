@@ -4,7 +4,7 @@ This repo contains the code and notebooks shown during course tutorials. It will
 
 You can also view the tutorial notebooks in your browser using `nbviewer` by clicking the button below.
 
-<a href="https://nbviewer.jupyter.org/github/benfinkelshtein/CS-236605-Tutorials/tree/master/"><img src="https://nbviewer.jupyter.org/static/img/nav_logo.svg" height="50px"/></a>
+<a href="https://nbviewer.org/github/benfinkelshtein/CS-236605-Tutorials/tree/main/"><img src="https://nbviewer.jupyter.org/static/img/nav_logo.svg" height="50px"/></a>
 
 ## Environment set-up
 
