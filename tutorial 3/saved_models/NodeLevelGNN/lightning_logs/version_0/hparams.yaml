@@ -1,0 +1,7 @@
+c_hidden: 16
+c_in: 1433
+c_out: 7
+dp_rate: 0.1
+layer_name: GCN
+model_name: GNN
+num_layers: 2
